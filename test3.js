@@ -1,3 +1,3 @@
 function a(){
-  return 1
+  return 'axdauh'
 }
